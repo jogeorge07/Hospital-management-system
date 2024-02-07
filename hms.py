@@ -481,7 +481,7 @@ def view_data():
         
    
 root=Tk()
-label=Label(root,text="BESANT HOSPITAL",font="arial 40 bold",bg='light blue')
+label=Label(root,text="MADRID HOSPITAL",font="arial 40 bold",bg='light blue')
 b1=Button(text="Registration",font="arial 20 bold",bg='yellow',command=register)
 b2=Button(text="Appointment",font="arial 20 bold",bg='yellow',command=apoint)
 b3=Button(text="List of Doctors",font="arial 20 bold",bg='yellow',command=lst_doc)
